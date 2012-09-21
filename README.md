@@ -1,6 +1,6 @@
 # Dotfiles
 
-Mac OSX.
+Mac OSX. taken from here and taken from there...
 
 ## Installation
 
