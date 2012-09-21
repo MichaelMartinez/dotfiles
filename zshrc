@@ -12,7 +12,7 @@ ZSH_THEME="af-magic"
 # alias ohmyzsh="subl ~/.oh-my-zsh"
 
 # Pipe my public key to my clipboard. Fuck you, pay me.
-alias pubkey="more ~/.ssh/id_dsa.public | pbcopy | echo '=> Public key copied to pasteboard.'"
+alias pubkey="more ~/.ssh/id_rsa.pub | pbcopy | echo '=> Public key copied to pasteboard.'"
 
 # Set to this to use case-sensitive completion
 # CASE_SENSITIVE="true"
