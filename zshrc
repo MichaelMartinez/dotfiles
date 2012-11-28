@@ -4,9 +4,10 @@ ZSH=$HOME/.oh-my-zsh
 # theme
 ZSH_THEME="af-magic"
 
-# Example aliases
+# aliases
 alias zshconfig="subl ~/.zshrc"
 alias ohmyzsh="subl ~/.oh-my-zsh"
+alias ec=emacsclient -c
 
 # Plugins
 plugins=(git)
